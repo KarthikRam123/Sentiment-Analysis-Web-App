@@ -1,8 +1,8 @@
-# Sentinic
+# Sentiment Analysis Web App
 
 A web-based application that will be able to scrape online reviews and make accurate predictions using machine learning models.
 
-### Working of Sentinic :
+### Working :
 1. User can run the sentiment analysis on a product from the given choices or he/she can feed 
 in the amazon URL of a new product. <br>
 2. Once the product is selected then the reviews are scraped from amazon. <br>
